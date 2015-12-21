@@ -4,9 +4,8 @@ c:\users\marko.papic\documents\visual studio 2015\Projects\VersionTesting\Versio
 c:\users\marko.papic\documents\visual studio 2015\Projects\VersionTesting\VersionTesting\obj\Debug\VersionTesting.csprojResolveAssemblyReference.cache
 c:\users\marko.papic\documents\visual studio 2015\Projects\VersionTesting\VersionTesting\obj\Debug\VersionTesting.exe
 c:\users\marko.papic\documents\visual studio 2015\Projects\VersionTesting\VersionTesting\obj\Debug\VersionTesting.pdb
-D:\Projects\test-repo\VersionTesting\VersionTesting\bin\Debug\VersionTesting.exe.config
-D:\Projects\test-repo\VersionTesting\VersionTesting\bin\Debug\VersionTesting.exe
-D:\Projects\test-repo\VersionTesting\VersionTesting\bin\Debug\VersionTesting.pdb
-D:\Projects\test-repo\VersionTesting\VersionTesting\obj\Debug\VersionTesting.csprojResolveAssemblyReference.cache
-D:\Projects\test-repo\VersionTesting\VersionTesting\obj\Debug\VersionTesting.exe
-D:\Projects\test-repo\VersionTesting\VersionTesting\obj\Debug\VersionTesting.pdb
+D:\Projects\test-repo\VersionTesting\bin\Debug\VersionTesting.exe.config
+D:\Projects\test-repo\VersionTesting\bin\Debug\VersionTesting.exe
+D:\Projects\test-repo\VersionTesting\bin\Debug\VersionTesting.pdb
+D:\Projects\test-repo\VersionTesting\obj\Debug\VersionTesting.exe
+D:\Projects\test-repo\VersionTesting\obj\Debug\VersionTesting.pdb
