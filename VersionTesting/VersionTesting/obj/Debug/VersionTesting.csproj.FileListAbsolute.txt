@@ -1,0 +1,6 @@
+c:\users\marko.papic\documents\visual studio 2015\Projects\VersionTesting\VersionTesting\bin\Debug\VersionTesting.exe.config
+c:\users\marko.papic\documents\visual studio 2015\Projects\VersionTesting\VersionTesting\bin\Debug\VersionTesting.exe
+c:\users\marko.papic\documents\visual studio 2015\Projects\VersionTesting\VersionTesting\bin\Debug\VersionTesting.pdb
+c:\users\marko.papic\documents\visual studio 2015\Projects\VersionTesting\VersionTesting\obj\Debug\VersionTesting.csprojResolveAssemblyReference.cache
+c:\users\marko.papic\documents\visual studio 2015\Projects\VersionTesting\VersionTesting\obj\Debug\VersionTesting.exe
+c:\users\marko.papic\documents\visual studio 2015\Projects\VersionTesting\VersionTesting\obj\Debug\VersionTesting.pdb
